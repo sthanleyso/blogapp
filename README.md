@@ -8,3 +8,4 @@ API RESTFul de um blog simples. Projeto em Node.js seguindo boas práticas e de 
 * Express.js
 * MongoDB
 * Handlebars
+* Bootstrap
